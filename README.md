@@ -1,6 +1,6 @@
 # Hi, I'm Axeeh 👋
 
-Computer Science student with a passion for building things that actually work.
+Data Science & AI student with a passion for building things that actually work.
 
 ## 🛠 What I work with
 
