@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Axeeh 👋
 
-<!--
-**Axeeh/Axeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student with a passion for building things that actually work.
 
-Here are some ideas to get you started:
+## 🛠 What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages** — Python, TypeScript, C
+- **Areas** — AI/RAG systems, Full-stack, Machine Learning
+- **Tools** — FastAPI, Next.js, LlamaIndex, PyTorch, PostgreSQL
+
+## 📌 Some things I've built
+
+- **TaxAI** — AI-powered fiscal assistant for the Italian market. RAG pipeline grounded in Italian tax law (TUIR, ADE circolari), hybrid semantic + keyword search, mandatory legal disclaimer system, and a smart deadline calendar. Stack: FastAPI, Next.js, Claude 3.5 Sonnet, pgvector, Supabase.
+
+- **Polymarket Latency Arbitrage Bot** — Python bot that exploits price lag between Binance/Coinbase spot data and Polymarket's BTC/ETH/SOL 15-min markets. Async architecture, Kelly sizing, Telegram alerts, paper mode by default.
+
+## 📫 Get in touch
+
+Feel free to explore my repos or reach out!
