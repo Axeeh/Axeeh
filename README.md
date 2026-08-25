@@ -32,8 +32,3 @@ My work sits between two things: applied ML — RAG systems, agents, NLP — and
 - Email — alessio.carnevale2004@gmail.com
 
 Based in Varese, Italy and Lugano, Switzerland. Italian (native), English, some German.
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Axeeh&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" alt="GitHub stats" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axeeh&layout=compact&hide_border=true&hide_title=true&langs_count=8" alt="Top languages" height="150">
