@@ -1,6 +1,6 @@
 # Hi, I'm Alessio Carnevale
 
-I'm finishing a Bachelor's in Data Science and Artificial Intelligence at SUPSI (Switzerland). I build RAG systems, AI agents and web products, and I co-run a small digital studio that brings websites and AI tools to Italian small businesses.
+BSc in Data Science and Artificial Intelligence at SUPSI (Switzerland). I build RAG systems, AI agents and web products, and I co-run a small digital studio that brings websites and AI tools to Italian small businesses.
 
 - BSc Data Science and Artificial Intelligence, SUPSI, 2026
 - Based in Varese, Italy, studied in Lugano, Switzerland
